@@ -6833,6 +6833,16 @@ use@^3.1.0:
   resolved "https://registry.yarnpkg.com/use/-/use-3.1.1.tgz#d50c8cac79a19fbc20f2911f56eb973f4e10070f"
   integrity sha512-cwESVXlO3url9YWlFW/TA9cshCEhtu7IKJ/p5soJ/gGpj7vbvFrAY/eIioQ6Dw23KjZhYgiIo8HOs1nQ2vr/oQ==
 
+useless-lib@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/useless-lib/-/useless-lib-1.0.0.tgz#e4a81ae9bd8c8ac49d945d22149f090b703c9948"
+  integrity sha512-0sk9lab9Ak+xJbLLVZlaRYyvqKIISg2MisRMb4q6mAupVYScab1YbIpXTp8EdLLSIqV3HV9KOoODqcN+juMDKg==
+
+useless-lib@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/useless-lib/-/useless-lib-3.0.0.tgz#ca50a9c8a7550645d5c94e319da2ccc4536c58f7"
+  integrity sha512-rmy0U5jF1Nsq3NQWVSjB/hM7NSvdwlKbxk39cIyTp+4yoE1gychkMMOb1A4+IaEakczwWWeRNSfatDfH6tTAeg==
+
 util-deprecate@^1.0.1, util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"

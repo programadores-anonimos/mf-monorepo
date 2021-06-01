@@ -7,6 +7,10 @@
         "start": "webpack serve --open",
         "build": "webpack"
     },
+    "dependencies": {
+        "useless-lib": "3.0.0",
+        "workspace-a": "0.1.0"
+    },
     "devDependencies": {
         "html-webpack-plugin": "^5.3.1",
         "webpack": "^5.38.1",
