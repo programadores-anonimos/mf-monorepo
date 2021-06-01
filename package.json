@@ -1,0 +1,13 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "lerna": "^4.0.0",
+    "wsrun": "^5.2.0"
+  }
+}
