@@ -2,8 +2,8 @@
   "name": "monorepo",
   "private": true,
   "scripts": {
-    "start": "yarn workspaces run start",
-    "serve": "wsrun --parallel start"
+    "single": "yarn workspaces run start",
+    "start": "concurrently \"wsrun --parallel start\""
   },
   "workspaces": [
     "packages/*"
