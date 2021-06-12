@@ -2,6 +2,12 @@
   "name": "monorepo",
   "private": true,
   "scripts": {
+    "lerna:add": "lerna add",
+    "lerna:changed": "lerna changed",
+    "lerna:info": "lerna info",
+    "lerna:list": "lerna list --graph --all",
+    "lerna:publish": "lerna publish",
+    "lerna:scope": "lerna exec --scope 'workspace-a' -- yarn start",
     "single": "yarn workspaces run start",
     "start": "concurrently \"wsrun --parallel start\""
   },
