@@ -1,6 +1,6 @@
 {
     "name": "programadores-anonimos-workspace-b",
-    "version": "0.1.0",
+    "version": "0.0.2",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "watch": "webpack --watch",
@@ -8,8 +8,8 @@
         "build": "webpack"
     },
     "dependencies": {
-        "useless-lib": "3.0.0",
-        "programadores-anonimos-workspace-a": "0.1.0"
+        "programadores-anonimos-workspace-a": "^0.0.2",
+        "useless-lib": "3.0.0"
     },
     "devDependencies": {
         "html-webpack-plugin": "^5.3.1",
